@@ -1,1 +1,1 @@
-# coding-project-template
+E-commerce plant shopping project.
